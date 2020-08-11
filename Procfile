@@ -1,0 +1,1 @@
+web: gunicorn pr_crisis_demo:flask_app
